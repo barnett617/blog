@@ -1,4 +1,4 @@
-对于 ![](https://javascript.info/intro) 的个人翻译及一些“添油加醋”
+对于 [https://javascript.info/intro](https://javascript.info/intro) 的个人翻译及一些“添油加醋”
 
 # 什么是javascript
 
