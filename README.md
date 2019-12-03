@@ -5,3 +5,5 @@
 - [做事方法论总结](./work_method.md)
 - [代码阅读](./code_read.md)
 - [问题解决记录](./problem_solved.md)
+- [待办事项](./todo.md)
+- [一些奇淫技巧](./tricks.md)
