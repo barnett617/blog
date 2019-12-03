@@ -1,9 +1,7 @@
-# 博客列表
+# 我的Github博客
 
-更多请见[issues](https://github.com/barnett617/blog/issues)
-
-1. [重读javascript第一篇](./article001.md)
-2. [js中的“拷贝”（第一篇）——js数据类型](./article002.md)
-3. [浅拷贝和深拷贝](./article003.md)
-4. [JS的方法参数传递（按值传递）](./article004.md)
-5. [关于WEB中宽高的一些整理](./post005.md)
+- [博客列表](./blog_list.md)
+- [问题记录](https://github.com/barnett617/blog/issues)
+- [做事方法论总结](./work_method.md)
+- [代码阅读](./code_read.md)
+- [问题解决记录](./problem_solved.md)
