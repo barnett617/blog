@@ -9,3 +9,4 @@
 - [问题解决记录](./problem_solved.md)
 - [待办事项](./todo.md)
 - [一些奇淫技巧](./tricks.md)
+- [文章链接](./articles.md)
