@@ -10,3 +10,5 @@
 - [待办事项](./todo.md)
 - [一些奇淫技巧](./tricks.md)
 - [文章链接](./articles.md)
+- [知识点](./endpoints.md)
+- [工具资源](./tools.md)
