@@ -7,3 +7,4 @@
 5. [关于WEB中宽高的一些整理](./post005.md)
 6. [2020年你为什么要学习js](./why_learn_js_in_2020.md)
 7. [2019年终总结](./2019_review.md)
+8. [如何用vscode调试node程序和vue源码](./debug_node_vue.md)
