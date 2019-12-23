@@ -1,0 +1,4 @@
+- [ ] call & apple
+- [ ] Array & methods
+- [ ] String & methods
+- [ ] Object & methods
