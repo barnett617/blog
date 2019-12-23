@@ -14,8 +14,8 @@
 - [ ] 对象新方法
 - [ ] Symbol
 - [ ] set和map
-- [ ] proxy
-- [ ] reflect
+- [x] proxy
+- [x] reflect
 - [ ] promise
 - [ ] 迭代器和for of
 - [ ] generator
