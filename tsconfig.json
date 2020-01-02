@@ -1,0 +1,12 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "ES5",
+    "experimentalDecorators": true,
+    "lib": [
+      "ES2015",
+      "es2017",
+      "dom"
+    ]
+  }
+}
