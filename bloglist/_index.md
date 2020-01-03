@@ -8,3 +8,10 @@
 6. [2020年你为什么要学习js](./why_learn_js_in_2020.md)
 7. [2019年终总结](./2019_review.md)
 8. [如何用vscode调试node程序和vue源码](./debug_node_vue.md)
+
+## 旧博客转移
+
+1. [再品Git, 深度解读（旧博客转移）](./old/git_use.md)
+2. [服务器搭建Gitlab](./old/gitlab_use.md)
+3. [一周时间使用Vue+Koa全栈开发论坛项目](./old/koa_vue_forum.md)
+4. [在Ubuntu 16.04安装禅道](./old/zendao.md)
