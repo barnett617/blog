@@ -18,7 +18,7 @@
 - [文章链接](./articles.md)
 - [常用代码](./code.md)
 - [网站集锦](./websites.md)
-- [知识点](./endpoints.md)
+- [知识点](./endpoints/index.md)
 
 ### 技巧类
 
