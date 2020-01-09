@@ -15,3 +15,7 @@
 
 - 属性或对象因未判空而访问其方法报错(例如：undefined.toString())
   - 能否写一个npm包用于判空处理
+
+## 常见疑惑
+
+- [option请求](https://stackoverflow.com/questions/1256593/why-am-i-getting-an-options-request-instead-of-a-get-request)
