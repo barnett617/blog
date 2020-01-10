@@ -9,7 +9,7 @@
 ### 方法论
 
 - [做事方法论总结](./work_method.md)
-- [问题记录](https://github.com/barnett617/blog/issues)
+- [github issues](https://github.com/barnett617/blog/issues)
 - [问题解决记录](./problem_solved.md)
 
 ### 学习类
