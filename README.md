@@ -29,3 +29,4 @@
 
 - [待办事项](./todo.md)
 - [我的简历](https://barnett617.github.io/WangXin/)
+- [昵称](./nickname.md)
