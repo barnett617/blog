@@ -6,11 +6,12 @@
 ## 常见交互
 
 - 输入框输入时实时校验，符合条件时按钮变成可点击
-- 滑动穿透（遮罩下不允许滑动）
+- [滑动穿透（遮罩下不允许滑动）](./problems_solved/problems/scroll_strike.md)
 
 ## 常见功能实现
 
 - [监听网页刷新](https://blog.csdn.net/halo1416/article/details/86705437)
+- [数组倒序](./problems_solved/problems/revert_array.js)
 
 ## 常见bug
 
@@ -34,3 +35,4 @@
 ### 最小化代码复现
 
 重新创建同技术栈项目（脚手架初始化新项目），逐渐累加到现状，定位问题所在
+
