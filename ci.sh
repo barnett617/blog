@@ -1,3 +1,4 @@
+# 使用： sh ci.sh 提交备注
 branch=master
 cwd=.
 git status
