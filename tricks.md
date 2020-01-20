@@ -2,3 +2,4 @@
 
 - [markdown使用](./tricks/markdown.md)
 - [github emoji cheatsheet](https://gist.github.com/rxaviers/7360908)
+- [z-index](./tricks/zindex.md)
