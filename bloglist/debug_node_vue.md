@@ -42,8 +42,13 @@ app.listen(3000);
 
 ### 三、运行程序携带`检查`参数
 
+
 ```js
 node --inspect=0.0.0.0:9229 index.js
+```
+
+```js
+node --inspect-brk index.js
 ```
 
 ### 四、`Chrome` 配置
