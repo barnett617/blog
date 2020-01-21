@@ -6,12 +6,12 @@
 ## 常见交互
 
 - 输入框输入时实时校验，符合条件时按钮变成可点击
-- [滑动穿透（遮罩下不允许滑动）](./problems_solved/problems/scroll_strike.md)
+- [滑动穿透（遮罩下不允许滑动）](./problems/scroll_strike.md)
 
 ## 常见功能实现
 
 - [监听网页刷新](https://blog.csdn.net/halo1416/article/details/86705437)
-- [数组倒序](./problems_solved/problems/revert_array.js)
+- [数组倒序](./problems/revert_array.js)
 
 ## 常见bug
 
@@ -24,11 +24,11 @@
 
 ## 常见误区
 
-- [sessionStorage](./problems_solved/mislead/sessionStorage.md)
+- [sessionStorage](./mislead/sessionStorage.md)
 
 ## 典型问题案例
 
-- [mpvue刷新](./problems_solved/problems/mpvue.md)
+- [mpvue刷新](./problems/mpvue.md)
 
 ## 问题解决方法
 
