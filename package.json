@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "## 导航（TOC）",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2020": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnett617/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnett617/blog/issues"
+  },
+  "homepage": "https://github.com/barnett617/blog#readme"
+}
