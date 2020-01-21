@@ -2,13 +2,19 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "## 导航（TOC）",
-  "main": "index.js",
-  "dependencies": {},
+  "main": "src",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3"
+  },
   "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
     "babel-preset-es2020": "^1.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/babel src --out-dir lib"
   },
   "repository": {
     "type": "git",

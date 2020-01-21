@@ -19,7 +19,23 @@ function optionalChain() {
   if (res?.data?.contents?.price) {
     console.log('now: ' + res.data.contents.price);
   }
+  if (res?.data?.content?.price) {
+    console.log('wrong: ' + res.data.contents.price);
+  }
 }
 function main() {
   optionalChain();
 }
+main()
+
+// 直接运行结果如下
+
+// if (res?.data?.contents?.price) {
+//   ^
+
+// SyntaxError: Unexpected token .
+
+// 可以通过 npm start 使用babel转换为 lib 目录中可运行的格式
+
+// origin: 22
+// now: 22
