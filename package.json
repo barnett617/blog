@@ -4,7 +4,8 @@
   "description": "## 导航（TOC）",
   "main": "src",
   "dependencies": {
-    "@babel/polyfill": "^7.8.3"
+    "@babel/polyfill": "^7.8.3",
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.3",
@@ -14,7 +15,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/babel src --out-dir lib"
+    "start": "./node_modules/.bin/babel src --out-dir lib",
+    "scss": "./node_modules/.bin/node-sass src -o dist"
   },
   "repository": {
     "type": "git",

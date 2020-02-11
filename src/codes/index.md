@@ -10,3 +10,7 @@
 ## 常见坑
 
 - [IIFE](./js_basic/iife/index.js)
+
+## CSS故障艺术
+
+- [抖音LOGO实现](./css/tiktok_logo/index.md)
