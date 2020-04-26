@@ -4,7 +4,7 @@
 
 ### 内容类
 
-- [博客列表](./doc/bloglist/_index.md)
+- [博客列表](https://github.com/barnett617/blog/doc/bloglist/_index.md)
 
 ### 方法论
 
